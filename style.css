@@ -1,0 +1,20 @@
+
+*{
+    padding: 10px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 10%;
+}
+
+select option[disabled] {
+    display: none;
+}
+
+.hidden{
+    display: none;
+}
+.text{
+
+}
